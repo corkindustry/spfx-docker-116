@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-docker-116-client-side-solution",
+    "id": "5f2566e0-25b7-415e-b785-a24cc203b052",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx-docker-116 description"
+      },
+      "longDescription": {
+        "default": "spfx-docker-116 description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-docker-116 Feature",
+        "description": "The feature that activates elements of the spfx-docker-116 solution.",
+        "id": "5c216738-20b6-40b5-bf58-0200368d8f10",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-docker-116.sppkg"
+  }
+}
